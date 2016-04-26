@@ -1,2 +1,6 @@
 *.obj
 *.dll
+
+*.user
+*.suo
+*.bak
